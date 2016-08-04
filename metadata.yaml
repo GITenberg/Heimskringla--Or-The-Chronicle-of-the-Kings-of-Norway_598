@@ -1,0 +1,31 @@
+_repo: Heimskringla--Or-The-Chronicle-of-the-Kings-of-Norway_598
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Snorri Sturluson
+    aliases:
+    - Sturleson, Snorro
+    - Sturluson, Snorri
+    - Sturlason, Snorre
+    deathdate: 1241
+    gutenberg_agent_id: '312'
+    url: http://www.gutenberg.org/2009/agents/312
+    wikipedia: http://en.wikipedia.org/wiki/Snorri_Sturluson
+description: from Old Norse
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iceland -- History'
+- !lcsh 'Norway -- History'
+- !lcsh 'Scandinavia -- History'
+- !lcsh 'Sagas -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+title: Heimskringla; Or, The Chronicle of the Kings of Norway
+url: http://www.gutenberg.org/ebooks/598
